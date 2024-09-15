@@ -1,4 +1,4 @@
-The pdf file is the required report. All the scripts are within the zip folder. Everything is written only by Zhuoyi Chen. Please don't share other than AMS595 HW grading purpose.
+The pdf file is the required report. All the scripts are within the zip folder. Everything is written only by Zhuoyi Chen. These files are only for AMS595 HW grading purpose.
 
 The files AMS595_HW1_P1 and AMS595_HW1_P2 represent part 1 and part 2 of the AMS595 HW. The required functions are both written in the form of scripts, which are called within the two main scripts. 
 
